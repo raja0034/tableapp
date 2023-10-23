@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": 84473,
+      "title": "title1",
+      "thumbnail": "/images/item1.jpg",
+      "sample": "https://tinyurl.com/item1",
+      "favorite": true
+    },
+    {
+      "id": 84375,
+      "title": "title2",
+      "thumbnail": "/images/item2.jpg",
+      "sample": "https://tinyurl.com/item2",
+      "favorite": false
+    }
+  ]
+}
